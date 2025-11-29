@@ -5,16 +5,6 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import localFont from 'next/font/local'
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-const dancingScript = Dancing_Script({
-  variable: "--font-dancing-script",
-  subsets: ["latin"],
-});
-
 const cabinetGrotesk = localFont({
 	variable: '--font-cabinet-grotesk',
 	src: [
