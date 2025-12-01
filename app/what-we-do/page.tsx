@@ -147,31 +147,31 @@ export default function WhatWeDo() {
             {
               title: "Product Quality Analysis",
               icon: IconFlask,
-              image: "/images/hero.jpg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg",
               description: "Comprehensive laboratory testing and quality assurance services to ensure product excellence and compliance with industry standards."
             },
             {
               title: "Storage Tanks Services",
               icon: IconTank,
-              image: "/images/tank-service.webp",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/tank-service.webp",
               description: "Expert storage tank maintenance, inspection, and management services to ensure optimal performance and safety."
             },
             {
               title: "Loading Rack Services",
               icon: IconTruck,
-              image: "/images/hero.jpg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg",
               description: "Efficient and safe loading rack operations with advanced equipment and trained personnel for seamless product transfer."
             },
             {
               title: "Maintenance Service",
               icon: IconTools,
-              image: "/images/hero.jpg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg",
               description: "Professional maintenance and repair services to keep your equipment and facilities operating at peak performance."
             },
             {
               title: "Training Services",
               icon: IconSchool,
-              image: "/images/hero.jpg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg",
               description: "Comprehensive training programs to enhance skills, safety awareness, and operational excellence for your team."
             }
           ].map((service, index) => (
