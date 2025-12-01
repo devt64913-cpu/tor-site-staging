@@ -118,32 +118,32 @@ export default function News() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             {
-              image: "/images/hero.jpg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg",
               title: "Refinery Operations",
               description: "State-of-the-art refining facilities"
             },
             {
-              image: "/images/tank-service.webp",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/tank-service.webp",
               title: "Storage Facilities",
               description: "Advanced storage tank systems"
             },
             {
-              image: "/images/images.jpeg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/images.jpeg",
               title: "Operations Center",
               description: "Modern control and monitoring systems"
             },
             {
-              image: "/images/hero.jpg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg",
               title: "Production Unit",
               description: "High-capacity processing units"
             },
             {
-              image: "/images/tank-service.webp",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/tank-service.webp",
               title: "Quality Control",
               description: "Laboratory and testing facilities"
             },
             {
-              image: "/images/images.jpeg",
+              image: "https://devt64913-cpu.github.io/tor-site-staging/images/images.jpeg",
               title: "Safety Systems",
               description: "Advanced safety infrastructure"
             }

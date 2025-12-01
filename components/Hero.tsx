@@ -24,7 +24,7 @@ export default function Hero({
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/images/hero.jpg"
+          src="https://devt64913-cpu.github.io/tor-site-staging/images/hero.jpg"
           alt="TOR Refinery"
           fill
           className="object-cover"
