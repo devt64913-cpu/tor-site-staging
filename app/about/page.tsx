@@ -113,7 +113,8 @@ export default function About() {
 
       {/* Our History Section */}
       <Section
-        title="Our History"
+        // title="Our History"
+        title="history"
         description="A journey of excellence spanning over five decades"
         className="bg-white"
       >

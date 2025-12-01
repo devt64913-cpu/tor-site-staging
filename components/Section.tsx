@@ -21,7 +21,9 @@ export default function Section({
   description,
 }: SectionProps) {
   return (
-    <section className={`py-16 lg:py-24 ${className}`}>
+    <section 
+    id={title}
+    className={`py-16 lg:py-24 ${className}`}>
       <div className={`container mx-auto px-4 lg:px-8 ${containerClassName}`}>
         {(title || subtitle || description) && (
           <motion.div
